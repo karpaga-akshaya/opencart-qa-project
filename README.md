@@ -1,6 +1,6 @@
 # OpenCart E-Commerce QA Testing Project
 
-Manual QA testing of a live, self-hosted OpenCart e-commerce application — covering test planning, test case design with requirement traceability, functional/regression/smoke/UAT execution, backend data validation via SQL, and defect tracking through JIRA.
+Manual QA testing of a live, self-hosted OpenCart e-commerce application - covering test planning, test case design with requirement traceability, functional, regression, smoke, User Acceptance Test execution, backend data validation via SQL, and defect tracking through JIRA.
 
 **Status:** Ongoing
 
